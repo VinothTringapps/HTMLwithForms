@@ -1,0 +1,59 @@
+body{
+    background-image:url("pexels-lukas-628233.jpg");
+    opacity: 0.7;
+}
+
+.header{
+    border:2px solid #220ff7;
+    background-color: #48ff0ba7;
+    text-align: center;
+}
+.myform{
+    width: 60%;
+    margin: auto;
+    margin-top: 10px;
+    border:2px solid #000405;
+    text-align: center;
+    background-color: #ffffffaa;
+    color: #000000;
+}
+input{
+    width: 80%;
+    border:2px solid #120000;
+    background-color: #3300ff;
+    text-align: center;
+    color: #1b0101;
+    margin: 10px;
+    padding: 10px;
+    font-size:20px;
+
+}
+button{
+    color: #000000;
+    background-color: #ff004c;
+    margin: 10px;
+    width: 30%;
+    height: 20%;
+}
+.button{
+    text-align: center;
+    margin: 10px;
+    
+}
+span{
+    width: 80%;
+    text-align: center;
+    margin: 10px;
+    background-color: #e1ff00;
+    color: #000000;
+
+}
+textarea{
+    width: 80%;
+    border:2px solid #000a0f;
+    background-color: #0d00ff;
+    text-align: center;
+    margin: 10px;
+    font-size:20px;
+    padding: 10px;
+}
